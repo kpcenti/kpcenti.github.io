@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Aj</title>
-    <link href="https:// kpcenti.github.io/feed.xml" rel="self" />
-    <link href="https:// kpcenti.github.io" />
+    <link href="https://kpcenti/kpcenti.github.io/feed.xml" rel="self" />
+    <link href="https://kpcenti/kpcenti.github.io" />
     <updated>2025-02-26T23:59:20-05:00</updated>
     <author>
         <name>Aj</name>
     </author>
-    <id>https:// kpcenti.github.io</id>
+    <id>https://kpcenti/kpcenti.github.io</id>
 
     <entry>
         <title>Music Rip 1</title>
         <author>
             <name>Aj</name>
         </author>
-        <link href="https:// kpcenti.github.io/music-rip-1.html"/>
-        <id>https:// kpcenti.github.io/music-rip-1.html</id>
+        <link href="https://kpcenti/kpcenti.github.io/music-rip-1.html"/>
+        <id>https://kpcenti/kpcenti.github.io/music-rip-1.html</id>
             <category term="Music Rips"/>
 
         <updated>2025-02-26T23:59:20-05:00</updated>
@@ -35,8 +35,8 @@
         <author>
             <name>Aj</name>
         </author>
-        <link href="https:// kpcenti.github.io/post-sorted-as-tag-b.html"/>
-        <id>https:// kpcenti.github.io/post-sorted-as-tag-b.html</id>
+        <link href="https://kpcenti/kpcenti.github.io/post-sorted-as-tag-b.html"/>
+        <id>https://kpcenti/kpcenti.github.io/post-sorted-as-tag-b.html</id>
             <category term="TAG B"/>
 
         <updated>2025-02-26T23:53:06-05:00</updated>
@@ -56,8 +56,8 @@
         <author>
             <name>Aj</name>
         </author>
-        <link href="https:// kpcenti.github.io/posts-are-like-blog-entries.html"/>
-        <id>https:// kpcenti.github.io/posts-are-like-blog-entries.html</id>
+        <link href="https://kpcenti/kpcenti.github.io/posts-are-like-blog-entries.html"/>
+        <id>https://kpcenti/kpcenti.github.io/posts-are-like-blog-entries.html</id>
 
         <updated>2025-02-26T23:51:53-05:00</updated>
             <summary>
@@ -76,8 +76,8 @@
         <author>
             <name>Aj</name>
         </author>
-        <link href="https:// kpcenti.github.io/post-under-page-a-test.html"/>
-        <id>https:// kpcenti.github.io/post-under-page-a-test.html</id>
+        <link href="https://kpcenti/kpcenti.github.io/post-under-page-a-test.html"/>
+        <id>https://kpcenti/kpcenti.github.io/post-under-page-a-test.html</id>
 
         <updated>2025-02-26T23:48:47-05:00</updated>
             <summary>
@@ -104,8 +104,8 @@
         <author>
             <name>Aj</name>
         </author>
-        <link href="https:// kpcenti.github.io/post-title-test.html"/>
-        <id>https:// kpcenti.github.io/post-title-test.html</id>
+        <link href="https://kpcenti/kpcenti.github.io/post-title-test.html"/>
+        <id>https://kpcenti/kpcenti.github.io/post-title-test.html</id>
 
         <updated>2025-02-26T23:38:29-05:00</updated>
             <summary>
