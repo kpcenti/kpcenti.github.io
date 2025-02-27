@@ -1,2 +1,0 @@
-# kpcenti.github.io
-Homepage
