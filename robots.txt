@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://kpcenti/kpcenti.github.io/sitemap.xml
+Sitemap: https://kpcenti.github.io/sitemap.xml
