@@ -82,7 +82,7 @@
         <updated>2025-02-26T23:48:47-05:00</updated>
             <summary>
                 <![CDATA[
-                    Body Post under Page A - Test Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vulputate justo sapien, eu laoreet turpis lobortis quis. Pellentesque vestibulum euismod odio, a pretium neque. Mauris lectus est, scelerisque pulvinar rhoncus non, posuere eu arcu. Etiam id felis sed&hellip;
+                    Body Post under Page A - Test Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vulputate justo sapien, eu laoreet turpis lobortis quis. Pellentesque&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -110,7 +110,7 @@
         <updated>2025-02-26T23:38:29-05:00</updated>
             <summary>
                 <![CDATA[
-                    Post Body - Test Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vulputate justo sapien, eu laoreet turpis lobortis quis. Pellentesque vestibulum euismod odio, a pretium neque. Mauris lectus est, scelerisque pulvinar rhoncus non, posuere eu arcu. Etiam id felis sed purus commodo iaculis.
+                    Post Body - Test Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vulputate justo sapien, eu laoreet turpis lobortis quis. Pellentesque vestibulum euismod odio,&hellip;
                 ]]>
             </summary>
         <content type="html">
