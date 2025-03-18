@@ -3,7 +3,7 @@
     <title>Aj&#x27;s Website</title>
     <link href="https://kpcenti.github.io/feed.xml" rel="self" />
     <link href="https://kpcenti.github.io" />
-    <updated>2025-03-18T00:44:16-04:00</updated>
+    <updated>2025-03-18T00:46:05-04:00</updated>
     <author>
         <name>Aj - kp_centi</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://kpcenti.github.io/image-test/index.html"/>
         <id>https://kpcenti.github.io/image-test/index.html</id>
+            <category term="Posts"/>
 
         <updated>2025-03-18T00:44:16-04:00</updated>
             <summary></summary>
