@@ -3,7 +3,7 @@
     <title>Aj&#x27;s Website</title>
     <link href="https://kpcenti.github.io/feed.xml" rel="self" />
     <link href="https://kpcenti.github.io" />
-    <updated>2025-03-20T23:27:20-04:00</updated>
+    <updated>2025-03-20T23:29:59-04:00</updated>
     <author>
         <name>Aj - kp_centi</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://kpcenti.github.io/dearalice-ariana-maxi-cd.html"/>
         <id>https://kpcenti.github.io/dearalice-ariana-maxi-cd.html</id>
+        <media:content url="https://kpcenti.github.io/media/posts/6/cover-2.jpg" medium="image" />
             <category term="Music Rips"/>
 
         <updated>2025-03-20T23:20:31-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://kpcenti.github.io/media/posts/6/cover-2.jpg" alt="" />
                     Tracklist: 1. Ariana (03:27) 2. Ariana (Instrumental) (03:24) 3. Ariana (TV/Singalong) (03:26) 4. Ariana (Radio Edit) (03:01) Total length: 13:18 Note: This version is the initial&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://kpcenti.github.io/media/posts/6/cover-2.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://kpcenti.github.io/media/posts/6/cover.jpg" alt="dearALICE - Ariana cover" width="3000" height="3000" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://kpcenti.github.io/media/posts/6/responsive/cover-xs.jpg 300w ,https://kpcenti.github.io/media/posts/6/responsive/cover-sm.jpg 480w ,https://kpcenti.github.io/media/posts/6/responsive/cover-md.jpg 768w ,https://kpcenti.github.io/media/posts/6/responsive/cover-lg.jpg 1024w"></figure>
 <p>Tracklist:</p>
 <p><strong>1.</strong> Ariana (03:27)<br><strong>2.</strong> Ariana (Instrumental) (03:24)<br><strong>3.</strong> Ariana (TV/Singalong) (03:26)<br><strong>4.</strong> Ariana (Radio Edit) (03:01)<br><br><strong>Total length:</strong> 13:18</p>
